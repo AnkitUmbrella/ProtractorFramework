@@ -41,7 +41,7 @@ browser.driver.manage().window().setSize(width, height);
 
         homepage.GoButt();
 
-        browser.sleep(2000);
+        browser.sleep(3000);
 
 
         homepage.verifyresult('4')
